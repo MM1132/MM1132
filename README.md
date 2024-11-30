@@ -1,6 +1,6 @@
-# Hi, I'm Robert! 👋
+# Hi, I'm Robert Reimann! 👋
 
-### Passionate and futuristic `Software Developer`. Learning anything I can get my hands on!
+### So yeah... I am a `Software Developer`. And I also have some links here if you want to learn more about me :) 
 
 -   ### 👨‍💻 Currently studying at [42 Heilbronn](https://www.42heilbronn.de/en/)
 -   ### 🎓 Graduate of [KOOD/Jõhvi](https://kood.tech)
