@@ -7,4 +7,4 @@
 -   ### 💼 An overview of my projects - [Portfolio](https://mm1132.github.io/portfolio/)
 -   ### 🔗 Let's connect - [LinkedIn](https://www.linkedin.com/in/r-reimann/)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N03l-MG&layout=compact&langs_count=4&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MM1132&layout=compact&langs_count=4&theme=radical"/>
